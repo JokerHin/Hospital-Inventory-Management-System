@@ -1,0 +1,4 @@
+HospitalCode,HospitalName,Tel,Location
+H01,ANTI,011-7654321,Ampang
+H02,FAST,010-8886511,SunLong
+H03,MOAT,012-4131025,Cheras

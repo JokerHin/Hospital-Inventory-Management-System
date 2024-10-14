@@ -1,0 +1,7 @@
+itemCode,itemName,SupplierCode,QuantityBox
+HC,HeadCover,S01,100
+FS,FaceShield,S01,80
+MS,Mask,S02,100
+GL,Gloves,S02,50
+GW,Gown,S03,50
+SC,ShoeCovers,S03,80

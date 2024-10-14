@@ -1,0 +1,12 @@
+itemCode,Status,SupplierCode,HospitalCode,Quantitybox,date
+HC,receive,S01,-,20,10-12-2024
+HC,distribute,S01,H01,40,10-12-2024
+GL,receive,S02,-,10,13-10-2024
+GL,receive,S02,-,30,13-10-2024
+HC,receive,S01,-,20,13-10-2024
+HC,distribute,S01,H01,20,13-10-2024
+HC,distribute,S01,H05,10,13-10-2024
+HC,receive,S01,-,80,13-10-2024
+SC,distribute,S03,H08,20,13-10-2024
+FS,distribute,S01,H09,20,13-10-2024
+GW,distribute,S03,H03,10,13-10-2024

@@ -1,0 +1,5 @@
+ID,UserType,Name,Password
+A1,Admin,Kar,888
+A2,Admin,Beh,111
+U1,User,Joker,123
+U2,user,JJ Lin,abc
